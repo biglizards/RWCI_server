@@ -1,0 +1,3 @@
+[submodule "ext/jsonserver"]
+	path = ext/jsonserver
+	url = https://github.com/biglizards/jsonserver
